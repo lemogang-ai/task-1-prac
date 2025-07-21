@@ -1,0 +1,55 @@
+ history
+    1  node -v
+    2  mkdir hello-world
+    3  cd hello-world
+    4  touch index.js
+    5  echo 'console.log("Hello world");' > index.js
+    6  git init
+    7  git add
+    8  git add .
+    9  git commit -m "Add hello.js with hello World"
+   10   git remote add origin https://github.com/lemogang-ai/hello-world.git
+   11  git push origin master
+   12  git push origin master
+   13  git pull origin main
+   14  cd task-1-prac
+   15  cd
+   16  git clone https://github.com/lemogang-ai/task-1-prac.git
+   17  git pull origin main
+   18  cd ~
+   19  git clone https://github.com/lemogang-ai/task-1-prac.git
+   20  cd task-1-prac
+   21  cd ~
+   22  cd desktop
+   23  git clone https://github.com/lemogang-ai/task-1-prac.git
+   24  ls
+   25  code .
+   26  cd task-1-prac
+   27  echo "The shell is my translator to the OS"
+   28  Run the following commands:
+   29  echo "The shell is my translator to the OS"
+   30  Run the following commands:
+   31  run
+   32  Run the following commands:
+   33  pwd
+   34  ls
+   35  cd Documents
+   36  cd ..
+   37  cd task-1-prac
+   38  touch Documents
+   39  cd Documents
+   40  cd Documents
+   41  cd ..
+   42  cd task-1-prac
+   43  cd in Documents
+   44  cd Documents
+   45  ls
+   46  mkdir Documents
+   47  mkdir Documents
+   48  cd Documents
+   49  cd ..
+   50  nano shell_intro.sh
+   51  chmod +x shell_intro.sh
+   52  ./shell_intro.sh
+   53  touch reflection.txt
+   54  history

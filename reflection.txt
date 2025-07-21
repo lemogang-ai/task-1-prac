@@ -1,0 +1,13 @@
+- What is the purpose of a shell?
+Accepts text commands
+translate to system calls 
+returns readiable human results
+
+
+- What did you learn by running shell commands?
+that a shell is a translator between the user and the cpu
+
+
+- How was using the terminal different from clicking through folders?
+its faster
+it offers more direct control to your os 
